@@ -22,5 +22,5 @@
   <div align="right">
   <a href="https://github.com/Vinicius147">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vinicius147&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius147&layout=compact&langs_count=7&theme=cobalt2"/>
+ 
 </div>
